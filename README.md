@@ -2,6 +2,7 @@
 ---
 
 ![이력서사진](1.jpg)
+
 <img src=kdh.jpg hight=150 widht=150>
 홍유진
 
