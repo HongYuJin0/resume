@@ -2,4 +2,4 @@
 ---
 ![이력서사진](1.jpg)
 
-
+<img src=kdh.png height=150 widht=150>
