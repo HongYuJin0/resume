@@ -25,3 +25,8 @@
 |C 프로그래밍|C 언어 개요|3|
 |Java 프로그래밍|Java 개용|3|
 |소프트웨어세미나1|최신 소프트웨어 트랜드|1|
+
+
+github address; [HongYuJin0][github]
+
+[github]:http://github.com/HongYUjin0
